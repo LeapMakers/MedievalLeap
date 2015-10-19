@@ -1,0 +1,9 @@
+Binaries
+DerivedDataCache
+RushTheMusic/Intermediate/
+RushTheMusic/Saved/
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
